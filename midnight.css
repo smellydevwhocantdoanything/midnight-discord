@@ -921,8 +921,8 @@ html.theme-light,
 	--background-nested-floating: var(--primary-630);
 	--background-primary: var(--bg-4);
 	--background-secondary: #ffff;
-	--background-secondary-alt: var(--bg-3);
-	--background-tertiary: var(--bg-3);
+	--background-secondary-alt: #ffff;
+	--background-tertiary: #ffff;
 	--bg-backdrop: hsl(var(--black-500-hsl) / 0.7);
 	--bg-backdrop-no-opacity: var(--black-500);
 	--bg-base-primary: var(--primary-600);
